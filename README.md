@@ -97,6 +97,26 @@ Why it matters:
 This guarantees clean workflow logic.
 No asset will ever be double-checked-out.
 
+📌 Project Limitations
+
+1 - No Service Portal / Employee Center UI
+
+The checkout process is currently available only in the ServiceNow platform UI
+
+2 - No SLA Enforcement
+
+The project does not track: 
+
+Approval SLAs or asset checkout duration SLAs
+
+3 - Not Scoped to an Application
+
+The project is implemented in the Global scope.
+
+4 - No Automated Test Framework (ATF) Coverage
+
+Automated tests are not included.
+
 📌 This update set was created as a learning project.
 
 It demonstrates practical use of:
